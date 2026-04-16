@@ -119,7 +119,7 @@ glowing-potato/
 
 ## 📄 许可证
 
-MIT License © 2026 sst1995
+清华小学 © 2026 sst1995
 
 ---
 
